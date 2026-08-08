@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-HR Analytics Dashboard built with Power BI to analyze employee attrition, job satisfaction, salary, age, education, and job roles using interactive visualizations and KPIs.
+# HR-Data-Analysis-Dashboard (Interactive Dashboard Creation using Microsoft Power BI)
+## Project Objective
+The objective of this project is to analyze employee attrition and identify the factors affecting employee turnover, job satisfaction, salary, age, education, job role, and employee experience.
