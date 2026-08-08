@@ -33,4 +33,5 @@ Designed an interactive HR Analytics Dashboard.
 Used Power BI filters and visualizations for data exploration.
 
 ## Dashboard
+<img width="839" height="482" alt="image" src="https://github.com/user-attachments/assets/8fe198af-63e5-447f-87c8-1b60d940593f" />
 
