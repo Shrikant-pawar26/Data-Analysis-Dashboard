@@ -6,19 +6,19 @@ The objective of this project is to analyze employee attrition and identify the 
 - <a href="https://github.com/Shrikant-pawar26/Data-Analysis-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
 
 ## Questions (KPIs)
-What is the total number of employees.
-What is the total employee attrition.
-What is the overall attrition rate.
-What is the average employee age.
-What is the average salary.
-What is the average number of years employees stay at the company. 
-What is the attrition by education.
-What is the attrition by age group. 
-What is the attrition by salary slab. 
-What is the attrition by years at company. 
-Which job role has the highest attrition.
-What is the job satisfaction level based on job role. 
-How does attrition vary by gender.
+- What is the total number of employees.
+- What is the total employee attrition.
+- What is the overall attrition rate.
+- What is the average employee age.
+- What is the average salary.
+- What is the average number of years employees stay at the company. 
+- What is the attrition by education.
+- What is the attrition by age group. 
+- What is the attrition by salary slab. 
+- What is the attrition by years at company. 
+-  job role has the highest attrition.
+- What is the job satisfaction level based on job role. 
+- How does attrition vary by gender.
 
 Dashboard Interaction <a href="https://github.com/Shrikant-pawar26/Data-Analysis-Dashboard/blob/main/Image.pdf">View Dashboard</a>
 
